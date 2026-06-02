@@ -9,25 +9,25 @@ class Fan:
         self.__color: str = color
         
     def get_speed(self):
-        pass
+        return self.__speed
     
-    def set_speed(self):
-        pass
+    def set_speed(self, speed):
+        self.__speed = speed
     
     def get_state(self):
-        pass
+        return self.__state
     
-    def set_state(self):
-        pass
+    def set_state(self, state):
+        self.__state = state
     
     def get_radius(self):
-        pass
+        return self.__radius
     
-    def set_radius(self):
-        pass
+    def set_radius(self, radius):
+        self.__radius = radius
     
     def get_color(self):
-        pass
+        return self.__color
     
-    def set_color(self):
-        pass
+    def set_color(self, color):
+        self.__color = color
