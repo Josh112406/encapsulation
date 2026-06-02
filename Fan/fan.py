@@ -7,3 +7,27 @@ class Fan:
         self.__state: bool = state
         self.__radius: float = radius
         self.__color: str = color
+        
+    def get_speed(self):
+        pass
+    
+    def set_speed(self):
+        pass
+    
+    def get_state(self):
+        pass
+    
+    def set_state(self):
+        pass
+    
+    def get_radius(self):
+        pass
+    
+    def set_radius(self):
+        pass
+    
+    def get_color(self):
+        pass
+    
+    def set_color(self):
+        pass
