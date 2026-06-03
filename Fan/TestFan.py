@@ -22,7 +22,7 @@ fan2.set_color("blue")
 fan2.set_is_on(False)
 
 #fan2 properties
-print(f"fan1 Speed: {fan2.get_speed()}")
-print(f"fan1 Radius: {fan2.get_radius()}")
-print(f"fan1 Color: {fan2.get_color()}")
-print(f"fan1 State: {fan2.get_is_on()}")
+print(f"fan2 Speed: {fan2.get_speed()}")
+print(f"fan2 Radius: {fan2.get_radius()}")
+print(f"fan2 Color: {fan2.get_color()}")
+print(f"fan2 State: {fan2.get_is_on()}")
